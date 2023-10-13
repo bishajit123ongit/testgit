@@ -1,3 +1,4 @@
 This test1.
 this is new line 
 this is third line.
+logo alignment is fixed
