@@ -1,1 +1,2 @@
-This test1
+This test1.
+this is new line
